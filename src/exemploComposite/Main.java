@@ -12,6 +12,6 @@ public class Main {
         java.adicionar(new Arquivo("Main.java"));
         java.adicionar(new Arquivo("ExemplosPastas.java"));
 
-        redme.abrir();
+        java.abrir();
     }
 }
